@@ -10,3 +10,7 @@ test commit for ssh key chekup
 
 this will be try with visual studio
 
+
+commit after remove github link
+
+
